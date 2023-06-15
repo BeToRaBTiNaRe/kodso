@@ -1,0 +1,45 @@
+{
+
+  "فیک": [
+
+    "ArKaLoR"
+
+  ],
+
+  "اصل": [
+
+    "iR_LoR41"
+
+  ],
+
+  "عمومی": [
+
+    "@EF7_BRj"
+
+  ],
+
+  "گروه": [
+
+    "https://rubika.ir/joing/EDJFFCJH0LKARTCILRZKVPDYVLCVSIHS"
+
+  ],
+
+  "خصوصی": [
+
+    "https://rubika.ir/joinc/BAGCHCJC0OSPFRDVPPIODAYOMLFKFCQT"
+
+  ],
+
+  "لایک": [
+
+    "https://rubika.ir/post/TBWrNAmfAt"
+
+  ],
+
+  "ویو": [
+
+    "https://rubika.ir/post/TBWrNAmfAt"
+
+  ]
+
+}
